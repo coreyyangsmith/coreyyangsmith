@@ -18,9 +18,7 @@
 
 <!-- Website Link -->
 <div align="center">
-  <a href="coreyyangsmith.github.io" target="_blank" style="text-decoration: none; font-size: 18px;">
-    🌐 Visit My Website: coreyyangsmith.github.io
-  </a>
+    🌐 Visit My Website: https://coreyyangsmith.github.io/
 </div>
 
 <br/>

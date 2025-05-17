@@ -3,7 +3,7 @@
 </div>
 
 ###
-
+<!-- Socials -->
 <div align="center">
   <a href="https://www.linkedin.com/in/coreyyangsmith/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -16,10 +16,18 @@
   </a>
 </div>
 
-###
-
+<!-- Website Link -->
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=coreyyangsmith.coreyyangsmith&"  />
+  <a href="http://www.coreyyangsmith.github.io/" target="_blank" style="text-decoration: none; font-size: 18px;">
+    🌐 Visit My Website: coreyyangsmith.github.io
+  </a>
+</div>
+
+<br/>
+
+<!-- Visitor Badge -->
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=coreyyangsmith.coreyyangsmith" alt="visitor badge" />
 </div>
 
 ###
